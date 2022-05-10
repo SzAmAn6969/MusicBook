@@ -1,4 +1,4 @@
-# facebook-clone
+# music-book
 
 ## Project setup
 ```
